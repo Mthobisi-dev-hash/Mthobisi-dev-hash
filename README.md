@@ -4,9 +4,9 @@ I’m a developer who turns coffee into code, bugs into lessons, and ideas into 
 ## Skills
 ● Programming Languages: Python, JavaScript, Java, C++, React.js, SQL, PHP, HTML/CSS
 
-● Frameworks/Libraries: React, Node.js, Express.js, Flask, Tailwind CSS, PostgreSQL, MongoDB, MySQL
+● Frameworks/Libraries: React, Node.js, Express.js, Flask, Tailwind CSS, MongoDB, MySQL
 
-● Tools/Technologies: Git, GitHub, Docker, VS Code, PowerBI, Microsoft 365 Cloud, SASS
+● Tools/Technologies: Git, GitHub, VS Code, PowerBI, Microsoft 365 Cloud, SASS
 ## Connect
 - LinkedIn: www.linkedin.com/in/mthobisi-nhlengethwa-7a82a8290
 - Email: nhlengethwatshepo@gmail.com
